@@ -72,6 +72,7 @@ a {
 
 /* Toggle Btn */
 .navbar__toggleBtn {
+  display: none;
   position: absolute;
   right: 32px;
   font-size: var(--font-medium);
@@ -102,6 +103,10 @@ a {
   .navbar__icons {
     justify-content: center;
     width: 100%;
+  }
+
+  .navbar__toggleBtn{
+    display: block;
   }
 
 }
