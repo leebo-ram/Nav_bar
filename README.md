@@ -2,7 +2,7 @@ Responsive Nav Bar UI Component**
 **
 
 **Click here to try**
-https://github.com/leebo-ram/Navbar/blob/main/Navbar.html
+http://127.0.0.1:5500/Nav_bar/Navbar.html
 
 **Wide Screen**
 ![wilde](https://user-images.githubusercontent.com/78125363/205251272-ee3e1ade-ae73-42e9-83c9-c15954bd74fa.png)
