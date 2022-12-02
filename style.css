@@ -52,3 +52,19 @@ a {
 .navbar__menu li {
   padding: 8px 12px;
 }
+
+.navbar__menu li:hover {
+  background-color: var(--color-satar-green);
+  border-radius: 4px;
+}
+
+/* Icons */
+.navbar__icons {
+  list-style: none;
+  color: var(--color-white);
+  display: flex;
+}
+
+.navbar__icons li {
+  padding: 8px 12px;
+}
