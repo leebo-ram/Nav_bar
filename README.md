@@ -2,6 +2,7 @@ Responsive Nav Bar UI Component**
 **
 
 **Click here to try**
+
 http://127.0.0.1:5500/Nav_bar/Navbar.html
 
 **Wide Screen**
