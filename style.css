@@ -70,6 +70,16 @@ a {
   padding: 8px 12px;
 }
 
+/* Toggle Btn */
+.navbar__toggleBtn {
+  position: absolute;
+  right: 32px;
+  font-size: var(--font-medium);
+  color: var(--color-satar-green);
+}
+
+
+
 /* media queries */
 @media screen and (max-width: 768px) {
   .navbar {
